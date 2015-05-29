@@ -1,0 +1,892 @@
+# Copyright (C) 2015 WR ContactForm
+# This file is distributed under the same license as the WR ContactForm package.
+# Translators:
+# Translators:
+# Jordy Sinke <jordysinke@hotmail.nl>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: WR ContactForm\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wr-contactform\n"
+"POT-Creation-Date: 2015-01-06 04:12:16+00:00\n"
+"PO-Revision-Date: 2015-04-21 08:42+0000\n"
+"Last-Translator: Tony WooRockets <woorockets@gmail.com>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/wr-contactform/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: helpers/action-hook.php:165
+msgid "Insert A Form"
+msgstr ""
+
+#: helpers/action-hook.php:166
+msgid "Select a form below to add it to your post or page."
+msgstr ""
+
+#: helpers/action-hook.php:170
+msgid "Select a Form"
+msgstr ""
+
+#: helpers/action-hook.php:197
+msgid "Can't find your form? Make sure it is active."
+msgstr ""
+
+#: helpers/action-hook.php:200
+msgid "Insert Form"
+msgstr ""
+
+#: helpers/action-hook.php:201 libraries/product/tmpl/addons.php:100
+#: libraries/product/tmpl/addons.php:114
+msgid "Cancel"
+msgstr ""
+
+#: helpers/action-hook.php:220 helpers/action-hook.php:236
+msgid "WR ContactForm Add Form"
+msgstr ""
+
+#: helpers/action-hook.php:236
+msgid "Add Form"
+msgstr ""
+
+#. #-#-#-#-#  wr-contactform.pot (WR ContactForm @version)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: helpers/action-hook.php:250 helpers/action-hook.php:445
+msgid "WR ContactForm"
+msgstr ""
+
+#: helpers/action-hook.php:269 helpers/action-hook.php:270
+msgid "All Forms"
+msgstr ""
+
+#: helpers/action-hook.php:280 helpers/action-hook.php:281
+msgid "Add New"
+msgstr ""
+
+#: helpers/action-hook.php:311 libraries/product/tmpl/addons.php:13
+msgid "Add-ons"
+msgstr ""
+
+#: helpers/action-hook.php:444
+msgid "Forms"
+msgstr ""
+
+#: helpers/action-hook.php:446
+msgid "Edit Form"
+msgstr ""
+
+#: helpers/action-hook.php:447
+msgid "Add New Form"
+msgstr ""
+
+#: helpers/action-hook.php:457
+msgid "Form Settings"
+msgstr ""
+
+#: helpers/action-hook.php:463
+msgid "Title"
+msgstr ""
+
+#: helpers/action-hook.php:464 helpers/action-hook.php:480
+#: helpers/action-hook.php:717
+msgid "Submissions"
+msgstr ""
+
+#: helpers/action-hook.php:465
+msgid "Short Code"
+msgstr ""
+
+#: helpers/action-hook.php:466
+msgid "Author"
+msgstr ""
+
+#: helpers/action-hook.php:467
+msgid "Date"
+msgstr ""
+
+#: helpers/action-hook.php:481
+msgid "Submission Edit"
+msgstr ""
+
+#: helpers/action-hook.php:482 helpers/action-hook.php:483
+msgid "Submission Detail"
+msgstr ""
+
+#: helpers/action-hook.php:492
+msgid "Submission Data"
+msgstr ""
+
+#: helpers/action-hook.php:532
+#: libraries/gadget/contactform-js-submissions.php:62
+msgid "Date Submitted"
+msgstr ""
+
+#: helpers/action-hook.php:549
+#: libraries/gadget/contactform-js-submissions.php:74
+#: libraries/form/tmpl/form-submission-detail.php:84
+msgid "IP Address"
+msgstr ""
+
+#: helpers/action-hook.php:550
+#: libraries/gadget/contactform-js-submissions.php:75
+#: libraries/form/tmpl/form-submission-detail.php:90
+msgid "Browser"
+msgstr ""
+
+#: helpers/action-hook.php:551
+#: libraries/gadget/contactform-js-submissions.php:76
+#: libraries/form/tmpl/form-submission-detail.php:96
+msgid "Operating System"
+msgstr ""
+
+#: helpers/action-hook.php:599
+msgid "- Select Date -"
+msgstr ""
+
+#: helpers/action-hook.php:716
+msgid "Duplicate"
+msgstr ""
+
+#: helpers/contactform.php:472 helpers/contactform.php:489
+#: helpers/contactform.php:499
+msgid "New Page"
+msgstr ""
+
+#: helpers/contactform.php:825
+msgid "Show Custom Message"
+msgstr ""
+
+#: helpers/contactform.php:826
+msgid "WR_CONTACTFORM_SHOW_CUSTOM_MESSAGE"
+msgstr ""
+
+#: helpers/contactform.php:827
+msgid "Go to URL"
+msgstr ""
+
+#: helpers/contactform.php:829
+msgid "Go to Single Entry"
+msgstr ""
+
+#: helpers/contactform.php:834
+msgid "Go to Taxonomy Overview Page"
+msgstr ""
+
+#: helpers/contactform.php:893
+msgid "Root"
+msgstr ""
+
+#: helpers/contactform.php:911
+msgid "( no name )"
+msgstr ""
+
+#: helpers/contactform.php:1126
+msgid "Captcha"
+msgstr ""
+
+#: helpers/contactform.php:1372 helpers/contactform.php:1375
+msgid "Form updated."
+msgstr ""
+
+#: helpers/contactform.php:1373
+msgid "Custom field updated."
+msgstr ""
+
+#: helpers/contactform.php:1374
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: helpers/contactform.php:1377
+msgid "Form restored to revision from %s"
+msgstr ""
+
+#: helpers/contactform.php:1378
+msgid "Form published."
+msgstr ""
+
+#: helpers/contactform.php:1379
+msgid "Form saved."
+msgstr ""
+
+#: helpers/contactform.php:1380
+msgid "Form submitted."
+msgstr ""
+
+#: helpers/contactform.php:1382
+msgid "Form scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. translators: Publish box date format
+#: helpers/contactform.php:1384
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: helpers/contactform.php:1386
+msgid "Form draft updated."
+msgstr ""
+
+#: helpers/form-edit.php:145 helpers/form-edit.php:266
+#: helpers/form-edit.php:313
+msgid "Background Color"
+msgstr ""
+
+#: helpers/form-edit.php:156
+msgid "Background Active Color"
+msgstr ""
+
+#: helpers/form-edit.php:167
+msgid "Border Thickness"
+msgstr ""
+
+#: helpers/form-edit.php:176 helpers/form-edit.php:277
+msgid "Border Color"
+msgstr ""
+
+#: helpers/form-edit.php:187
+msgid "Border Active Color"
+msgstr ""
+
+#: helpers/form-edit.php:198
+msgid "Rounded Corner Radius"
+msgstr ""
+
+#: helpers/form-edit.php:207
+msgid "Padding Space"
+msgstr ""
+
+#: helpers/form-edit.php:216
+msgid "Vertical Space"
+msgstr ""
+
+#: helpers/form-edit.php:227 helpers/form-edit.php:299
+#: helpers/form-edit.php:324
+msgid "Text Color"
+msgstr ""
+
+#: helpers/form-edit.php:238
+msgid "Font Type"
+msgstr ""
+
+#: helpers/form-edit.php:255
+msgid "Font Size"
+msgstr ""
+
+#: helpers/form-edit.php:288
+msgid "Shadow Color"
+msgstr ""
+
+#: helpers/form-edit.php:368
+msgid "Button Position"
+msgstr ""
+
+#: helpers/form-edit.php:472
+msgid "Add Container"
+msgstr ""
+
+#: helpers/form-edit.php:671
+msgid "Confirmation"
+msgstr ""
+
+#: helpers/form-edit.php:674
+msgid ""
+"Select Yes if you want to save submissions to database for later "
+"utilization."
+msgstr ""
+
+#: helpers/form-edit.php:674
+msgid "Save Submissions"
+msgstr ""
+
+#: helpers/form-edit.php:684
+msgid "Select the action to take after user submits the form data."
+msgstr ""
+
+#: helpers/form-edit.php:685
+msgid "Do Action"
+msgstr ""
+
+#: helpers/form-edit.php:708
+msgid "Email Notification"
+msgstr ""
+
+#: helpers/form-edit.php:720
+msgid "Send to email(s)"
+msgstr ""
+
+#: helpers/form-edit.php:738
+msgid "Send to responder"
+msgstr ""
+
+#: helpers/form.php:719 libraries/gadget/controls/name.php:147
+#: libraries/gadget/controls/name.php:166
+msgid "First"
+msgstr ""
+
+#: helpers/form.php:724 libraries/gadget/controls/name.php:152
+#: libraries/gadget/controls/name.php:166
+msgid "Middle"
+msgstr ""
+
+#: helpers/form.php:729 libraries/gadget/controls/name.php:157
+#: libraries/gadget/controls/name.php:166
+msgid "Last"
+msgstr ""
+
+#: helpers/form.php:894 libraries/gadget/controls/address.php:89
+#: libraries/gadget/controls/address.php:123
+msgid "Street Address"
+msgstr ""
+
+#: helpers/form.php:897 libraries/gadget/controls/address.php:94
+#: libraries/gadget/controls/address.php:123
+msgid "Address Line 2"
+msgstr ""
+
+#: helpers/form.php:900 libraries/gadget/controls/address.php:99
+#: libraries/gadget/controls/address.php:123
+msgid "City"
+msgstr ""
+
+#: helpers/form.php:903 libraries/gadget/controls/address.php:104
+#: libraries/gadget/controls/address.php:123
+msgid "State/Province/Region"
+msgstr ""
+
+#: helpers/form.php:906 libraries/gadget/controls/address.php:109
+#: libraries/gadget/controls/address.php:123
+msgid "Postal/Zip code"
+msgstr ""
+
+#: includes/required.php:117 includes/required.php:129
+#: includes/required.php:153 includes/required.php:179
+#: includes/required.php:201 includes/required.php:214
+#: includes/required.php:219 includes/required.php:232
+#: includes/required.php:237 includes/required.php:249
+#: includes/required.php:261 includes/required.php:269
+#: libraries/gadget/contactform-frontend.php:487
+msgid "This field can not be empty, please enter required information."
+msgstr ""
+
+#: includes/required.php:142 includes/required.php:168
+msgid "The information is invalid, please correct."
+msgstr ""
+
+#: includes/required.php:264 includes/type.php:351
+msgid "Both password must be the same."
+msgstr ""
+
+#: includes/type.php:172
+msgid "Unable to upload file."
+msgstr ""
+
+#: includes/type.php:213
+msgid "WR_CONTACTFORM_FIELD_EMAIL"
+msgstr ""
+
+#: includes/upload.php:33 includes/upload.php:44
+msgid "WR_CONTACTFORM_ERROR_WARNFILENAME"
+msgstr ""
+
+#: includes/upload.php:65 includes/upload.php:97 includes/upload.php:102
+msgid "The file you want to upload is too big. Please keep file size under %s"
+msgstr ""
+
+#: includes/upload.php:92
+msgid "This file type %s is not supported."
+msgstr ""
+
+#: libraries/contactform/form-settings.php:75
+msgid "Action Data"
+msgstr ""
+
+#: libraries/form/field/tmpl/action-data.php:36
+msgid "WR_CONTACTFORM_SELECT_CHOICE_NO"
+msgstr ""
+
+#: libraries/form/field/tmpl/color-picker.php:15
+msgid "Pick Color"
+msgstr ""
+
+#: libraries/form/tmpl/fieldsets.php:24
+msgid "Collapse All"
+msgstr ""
+
+#: libraries/form/tmpl/fieldsets.php:25
+msgid "Expand All"
+msgstr ""
+
+#: libraries/form/tmpl/fieldsets.php:36
+msgid "On"
+msgstr ""
+
+#: libraries/form/tmpl/fieldsets.php:37
+msgid "Off"
+msgstr ""
+
+#: libraries/form/tmpl/form-contactform-settings.php:156
+msgid "Form Design"
+msgstr ""
+
+#: libraries/form/tmpl/form-contactform-settings.php:157
+msgid "Form Action"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:47
+msgid "WR ContactForm Settings"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:56
+msgid "Load Bootstrap Assets"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:60
+msgid "JS"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:65
+msgid "CSS"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:69
+msgid ""
+"You should choose NOT to load Bootstrap JS / CSS if your theme or some other"
+" plugin installed on your website already loaded it."
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:74
+msgid "From Email"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:82
+msgid "Captcha Setting"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:88
+msgid "Enable Captcha for all forms"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:93
+msgid "Disable Captcha for all forms"
+msgstr ""
+
+#: libraries/form/tmpl/form-settings.php:98
+msgid "Use Form's individual setting"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:52
+msgid "Data"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:55
+msgid "Details"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:63
+msgid "Form"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:73
+msgid "Date Created"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:110
+msgid "Data Presentation"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:113
+msgid "Single page"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:114
+msgid "Multiple pages"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:124
+msgid "Edit"
+msgstr ""
+
+#: libraries/form/tmpl/form-submission-detail.php:127
+msgid "Done"
+msgstr ""
+
+#: libraries/gadget/contactform-frontend.php:91
+msgid ""
+"The file you want to upload is too big. Please keep file size under %s MB"
+msgstr ""
+
+#: libraries/gadget/contactform-frontend.php:202
+msgid "WR_CONTACTFORM_FIELD_EXISTING"
+msgstr ""
+
+#: libraries/gadget/contactform-frontend.php:231
+#: libraries/gadget/contactform-frontend.php:240
+#: libraries/gadget/contactform-frontend.php:248
+msgid "The information cannot contain less than"
+msgstr ""
+
+#: libraries/gadget/contactform-frontend.php:234
+#: libraries/gadget/contactform-frontend.php:243
+#: libraries/gadget/contactform-frontend.php:251
+msgid "The information cannot contain more than"
+msgstr ""
+
+#: libraries/gadget/contactform-frontend.php:314
+#: libraries/gadget/contactform-frontend.php:323
+#: libraries/gadget/contactform-frontend.php:328
+msgid "Incorrect captcha text!"
+msgstr ""
+
+#: libraries/gadget/contactform-frontend.php:469
+#: libraries/gadget/contactform-frontend.php:473
+msgid "Both %s addresses must be the same."
+msgstr ""
+
+#: libraries/gadget/controls/address.php:114
+msgid "COUNTRY"
+msgstr ""
+
+#: libraries/gadget/controls/checkboxes.php:117
+#: libraries/gadget/controls/choices.php:116
+#: libraries/gadget/controls/dropdown.php:120
+msgid "Allow user's choice"
+msgstr ""
+
+#: libraries/gadget/controls/date.php:102
+msgid "Show Date in format"
+msgstr ""
+
+#: libraries/gadget/controls/date.php:106
+msgid "Show Time in format"
+msgstr ""
+
+#: libraries/gadget/controls/date.php:110
+msgid "Enable Range selection"
+msgstr ""
+
+#: libraries/gadget/controls/date.php:127
+msgid "Custom date format"
+msgstr ""
+
+#: libraries/gadget/controls/dropdown.php:135
+msgid "WR_CONTACTFORM_SET_ITEM_PLACEHOLDER"
+msgstr ""
+
+#: libraries/gadget/controls/name.php:142
+msgid "TITLES"
+msgstr ""
+
+#: libraries/gadget/tmpl/email-settings/default.php:42
+msgid "WR_CONTACTFORM_EMAIL_SETTINGS_FROM"
+msgstr ""
+
+#: libraries/gadget/tmpl/email-settings/default.php:49
+#: libraries/gadget/tmpl/email-settings/default.php:63
+#: libraries/gadget/tmpl/email-settings/default.php:74
+#: libraries/gadget/tmpl/email-settings/default.php:84
+msgid "WR_CONTACTFORM_EMAIL_SETTINGS_INSERT_FIELD"
+msgstr ""
+
+#: libraries/gadget/tmpl/email-settings/default.php:56
+msgid "WR_CONTACTFORM_EMAIL_SETTINGS_REPLY_TO"
+msgstr ""
+
+#: libraries/gadget/tmpl/email-settings/default.php:70
+msgid "WR_CONTACTFORM_EMAIL_SETTINGS_SUBJECT"
+msgstr ""
+
+#: libraries/gadget/tmpl/email-settings/default.php:78
+msgid "WR_CONTACTFORM_EMAIL_SETTINGS_MESSAGE"
+msgstr ""
+
+#: libraries/gadget/tmpl/email-settings/default.php:88
+msgid "WR_CONTACTFORM_EMAIL_SETTINGS_ATTACH"
+msgstr ""
+
+#: libraries/product/addons.php:66
+msgid "Cannot get addons information for current product."
+msgstr ""
+
+#: libraries/product/addons.php:90
+msgid "Missing addon to be installed."
+msgstr ""
+
+#: libraries/product/addons.php:97
+msgid "The requested action is invalid."
+msgstr ""
+
+#: libraries/product/addons.php:134
+msgid ""
+"You do not have sufficient permissions to either add or delete plugins for "
+"this site."
+msgstr ""
+
+#: libraries/product/addons.php:218
+msgid ""
+"Cannot install %1$s v%2$s.\n"
+"This version requires %3$s v%4$s while you are using %5$s v%6$s."
+msgstr ""
+
+#: libraries/product/addons.php:359
+msgid "Invalid Parameters! Can not verify your product information."
+msgstr ""
+
+#: libraries/product/addons.php:363
+msgid "Invalid username or password."
+msgstr ""
+
+#: libraries/product/addons.php:367
+msgid ""
+"We could not find the product in your order list. Seems like you did not "
+"purchase it yet."
+msgstr ""
+
+#: libraries/product/addons.php:371
+msgid "Requested file is not found on server."
+msgstr ""
+
+#: libraries/product/addons.php:376
+msgid "Cannot connect to WooRockets.com server."
+msgstr ""
+
+#: libraries/product/addons.php:389
+msgid "Cannot store add-on package to local file system."
+msgstr ""
+
+#: libraries/product/addons.php:412
+msgid ""
+"You do not have sufficient permissions to activate plugins for this site."
+msgstr ""
+
+#: libraries/product/addons.php:422
+msgid "Cannot detect plugin to activate."
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:15
+msgid "Extend %s functionality with following add-ons"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:25 libraries/product/tmpl/addons.php:118
+msgid "Incompatible"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:27 libraries/product/tmpl/addons.php:117
+msgid "Installed"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:36 libraries/product/tmpl/addons.php:99
+#: libraries/product/tmpl/addons.php:115
+msgid "Install"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:40
+msgid "Update"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:44 libraries/product/tmpl/addons.php:116
+msgid "Uninstall"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:49
+msgid "More Info"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:65
+msgid "WooRockets Customer Account"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:75
+msgid "Username"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:81
+msgid "Password"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:91
+msgid "Remember Me"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:119
+msgid "Are you sure you want to uninstall %s?"
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:120
+msgid "Verifying..."
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:121
+msgid "Installing..."
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:122
+msgid "Updating..."
+msgstr ""
+
+#: libraries/product/tmpl/addons.php:123
+msgid "Uninstalling..."
+msgstr ""
+
+#: libraries/product/update.php:192
+msgid ""
+"<a href='%s'>Please input Envato information to get product's updates</a>"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:32
+msgid ""
+"Thank you for installing WR Contact Form from WooRockets Team! We are making"
+" new hi-quality themes and plugins for you ;) Follow us on <a href=\"%s\" "
+"target=\"_blank\" >Twitter</a> or <a href=\"%s\" target=\"_blank\" "
+">Subscribe</a> to our email list and be the first to get updated."
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:61
+msgid "About WR Contact Form"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:63
+msgid ""
+"You would never find any other easier WordPress Contact Form builder than "
+"<strong>WR ContactForm</strong>. This free user-oriented form creator with "
+"drag-and-drop interface makes the job easier than ever. You will no longer "
+"have to worry about writing code or learning any new skill"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:66
+msgid "Current version"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:66
+msgid "Change log"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:67
+msgid "Follow us to get latest updates"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:68
+msgid "Follow"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:82
+msgid "Join our mailing list"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:83
+msgid ""
+"Receive the latest updates about WR Contact Form as well as all the best "
+"news from WooRockets"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:88
+msgid "Documentation"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:89
+msgid "Detailed construction of how to use WR Contact Form"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:96
+msgid "Hot Features"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:102
+msgid "Drag and drop"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:103
+msgid ""
+"You can save a lot of time with intuitive drag and drop operations. This can"
+" be used in many processes when working with WR Contact Form."
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:106
+msgid "Prevent Spam"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:107
+msgid ""
+"To protect your website from spam, the Captcha function should be used. The "
+"system will require users to fill in the CAPTCHA to protect forms from spam "
+"and abuse."
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:110
+msgid "Multiple forms"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:111
+msgid ""
+"You can create as many forms as you want. In a single form you can also "
+"choose the most suitable fields for your form."
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:120
+msgid "GET INVOLVED"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:124
+msgid "Rate WR Contact Form"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:125
+msgid ""
+"Share your thoughts of WR Contact Form with other WordPress folks. Next "
+"versions of WR Contact Form will be improved basing on your opinions."
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:130
+#: libraries/form/tmpl/form-about-us.php:143
+msgid "Submit your Website"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:131
+msgid ""
+"Share your website using WR Contact Form with us. We can include it in our "
+"showcase collection and have it exposed to thousands of WooRockets's website"
+" visitors."
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:138
+msgid "Review"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:152
+msgid "Learn more from <strong>OUR BLOG</strong>"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:154
+msgid ""
+"Follow our blog for latest news, tutorials & interviews about WooComerce & "
+"WordPress"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:157
+msgid "SEE OUR OTHER AWESOMENESS"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:162
+msgid "Freebies download"
+msgstr ""
+
+#: libraries/form/tmpl/form-about-us.php:170
+msgid "Corsa theme"
+msgstr ""
+
+#. #-#-#-#-#  wr-contactform.pot (WR ContactForm @version)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wr-contactform.pot (WR ContactForm @version)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://woorockets.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Super easy form builder bringing to your Wordpress website contact form, "
+"survey and much more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooRockets Team <support@woorockets.com>"
+msgstr ""
